@@ -67,4 +67,4 @@ jobs:
           # 目标地址
           TARGET: "/code/web"
           # 排除 node_modules ~
-          EXCLUDE: "/node_modules/, /*/node_modules/"
+          EXCLUDE: "/**/node_modules/, /node_modules/"
