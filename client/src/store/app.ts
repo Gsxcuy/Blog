@@ -58,7 +58,7 @@ export default class SApp {
       },
       About: {
         headerTitle: "About",
-        headerDesc: "Hi， ~ _ ~!!!",
+        headerDesc: "Hi，⁽⁽ଘ( ˊᵕˋ )ଓ",
         headerImg: `url(${aboutBG})`,
         headerTag: "",
       },

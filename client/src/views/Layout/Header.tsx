@@ -155,7 +155,7 @@ const HeaderTitle = styled.p`
   position: relative;
 `;
 const HeaderDesc = styled.p`
-  color: #d7d7d7;
+  color: #fff;
 `;
 const NavBox = styled(FlexBlock)<{
   navBgc?: string;

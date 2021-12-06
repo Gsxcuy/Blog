@@ -53,7 +53,7 @@ console.log(a); // [6]
 
 ```js
 Array.isArray() // 检测数组
-  [(1, 2)].toString(); // 将数组转换成字符串 typeof - string
+[(1, 2)].toString(); // 将数组转换成字符串 typeof - string
 String([1, 2]); // 也可以转换成字符串
 [1, 2].join("-"); // 1-2 将数组换成字符串 typeof - string - 然后按照指定方式进行拼接
 "123".split(","); // [123] - 字符串转换成数组 - 查找字符按格式进行转换 不传就挨个字符串进行拆分
