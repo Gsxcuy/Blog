@@ -26,21 +26,27 @@ export const About: FC = () => {
           <p>郭霖，2019年毕业，前端研发工程师。</p>
           <p>目前就职于 新浪微博广告部门。</p>
           <p>
-            -- 从事「 微博App博文推广<TextTag>( Vue )</TextTag> 」等界面构建工作。
+            -- 从事「 微博App博文推广<TextTag>( Vue )</TextTag>{" "}
+            」等界面构建工作。
           </p>
           <p>
-            -- 负责「 微博广告特征平台 」功能的管理后台从 0 到 1 的搭建以及部署。
+            -- 负责「 微博广告特征平台 」功能的管理后台从 0 到 1
+            的搭建以及部署。
             <TextTag>( Vite + Vue3 )</TextTag>
           </p>
           <p>
-            -- 负责「 微博广告部门网站构建<TextTag>( Vite + TS + Vue3 )</TextTag>以及组织内部 Wiki 搭建<TextTag>( docker )</TextTag> 」
+            -- 负责「 微博广告部门网站构建
+            <TextTag>( Vite + TS + Vue3 )</TextTag>以及组织内部 Wiki 搭建
+            <TextTag>( docker )</TextTag> 」
           </p>
-          <p><b>目前擅长：（从熟练程度依次递减~）</b></p>
+          <p>
+            <b>目前擅长：（从熟练程度依次递减~）</b>
+          </p>
           <p>
             --
             <TextTag>
-              HTML、Js、Css、Vue、( React｜Node｜小程序 )、(
-              Webpack｜Gulp｜Vite｜Ts｜mongodb )
+              HTML、Js、Css、Vue、( React｜Node｜Ts｜小程序 )、(
+              Webpack｜Gulp｜Vite｜mongodb )
             </TextTag>
           </p>
         </Body>
@@ -54,7 +60,8 @@ export const About: FC = () => {
               博客定位：专注于JavaScript基础、技术原理、性能优化、实战案例的技术类原创文章。
             </li>
             <li>
-              域名来源：之前网名的汇总，还有就是拼起来觉得<TextTag>好看😄</TextTag>。
+              域名来源：之前网名的汇总，还有就是拼起来觉得
+              <TextTag>好看😄</TextTag>。
             </li>
           </ul>
         </Body>

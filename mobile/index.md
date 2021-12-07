@@ -9,7 +9,7 @@ actionLink: /docs/LeetCode/
 sidebar: auto
 features:
   - title: 关于博主
-    details: 郭霖，目前就职于新浪微博，从事前端开发，掌握技能（从熟练程度依次递减~）：Vue、Node、Webpack、React、Vite、Ts、mongodb等。
+    details: 郭霖，目前就职于新浪微博，从事前端开发，掌握技能（从熟练程度依次递减~）：Vue、Node、Ts、Webpack、React、Vite、mongodb等。
   - title: 关于博客
     details: 定位：专注于JavaScript基础、技术原理、性能优化、实战案例的技术类原创文章。
   - title: 联系博主

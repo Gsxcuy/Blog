@@ -14,7 +14,7 @@
 
 ## 🛠 Skills
 
-**`HTML、Js、Css、Vue、React、Node、小程序、Webpack、Ts...`**
+**`HTML、Js、Css、Vue、( React｜Node｜Ts｜小程序 )、( Webpack｜Gulp｜Vite｜mongodb )...`**
 
 ## 🔗 Links
 
