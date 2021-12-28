@@ -12,7 +12,7 @@ const Tag = require("../models/Tag");
 module.exports = (router) => {
   /**
    * @route POST /api/blog/create
-   * @desc Gsxcuy 创建博客
+   * @desc Gsxcoy 创建博客
    * @access ~public
    * @params Blog.Schema
    */
@@ -41,7 +41,7 @@ module.exports = (router) => {
 
   /**
    * @route GET /api/blog/detail
-   * @desc Gsxcuy 博客详情
+   * @desc Gsxcoy 博客详情
    * @access ~public
    * @params id-blogID
    */
@@ -70,7 +70,7 @@ module.exports = (router) => {
 
   /**
    * @route PUT /api/blog/update
-   * @desc Gsxcuy 更新 对应博客
+   * @desc Gsxcoy 更新 对应博客
    * @access ~public
    * @params id-blogID && Blog.Schema
    */
@@ -109,7 +109,7 @@ module.exports = (router) => {
 
   /**
    * @route DELETE /api/blog/remove
-   * @desc Gsxcuy 删除对应博客
+   * @desc Gsxcoy 删除对应博客
    * @access ~public
    * @params id-blogID
    */
@@ -132,7 +132,7 @@ module.exports = (router) => {
 
   /**
    * @route GET /api/blog/list
-   * @desc Gsxcuy 博客列表 - 查询对应
+   * @desc Gsxcoy 博客列表 - 查询对应
    * @access ~public
    * @params search-blog标题
    */

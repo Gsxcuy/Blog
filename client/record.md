@@ -76,8 +76,8 @@
 ### 项目`Git`配置
 
 ```sh
-git config user.email "Gsxcuy@163.com"
-git config user.name "Gsxcuy"
+git config user.email "Gsxcoy@163.com"
+git config user.name "Gsxcoy"
 ```
 
 ### `tsconfig.json`
@@ -292,11 +292,3 @@ git config user.name "Gsxcuy"
     min-height: 100vh;
   }
   ```
-
-## `React-Router`
-
-**`yarn add react-router@6 react-router-dom@6`**
-
-> **`6.0.0 beta.1 / `**
-
-**`yarn add history`**

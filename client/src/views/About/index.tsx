@@ -45,7 +45,7 @@ export const About: FC = () => {
           <p>
             --
             <TextTag>
-              HTML、Js、Css、Vue、( React｜Node｜Ts｜小程序 )、(
+              HTML、Js、Css、Vue、( Ts｜Node｜React｜小程序 )、(
               Webpack｜Gulp｜Vite｜mongodb )
             </TextTag>
           </p>
@@ -95,7 +95,7 @@ export const About: FC = () => {
         <Body className="ul--style">
           <ul>
             <li>
-              <p>2021.12.05，搭建个人博客并更新第一条博客。ଘ(੭ˊᵕˋ)੭ </p>
+              <p>2022.01.01，搭建个人博客并更新第一条博客。ଘ(੭ˊᵕˋ)੭ </p>
               <p>
                 <TextTag>React + Ts</TextTag>构建PC端、
                 <TextTag>Vue + VitePress</TextTag>构建移动端、

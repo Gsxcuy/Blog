@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Gsxcuy',
+  title: 'Gsxcoy',
   base: '/',
   description: 'Keep on going never give up',
   head: [
