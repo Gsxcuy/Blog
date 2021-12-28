@@ -6,7 +6,7 @@ const Tag = require("../models/Tag");
 module.exports = (router) => {
   /**
    * @route POST /api/tag/create
-   * @desc Gsxcuy 创建标签
+   * @desc Gsxcoy 创建标签
    * @access ~public
    * @params Tag.Schema
    */
@@ -29,7 +29,7 @@ module.exports = (router) => {
 
   /**
    * @route GET /api/tag/detail
-   * @desc Gsxcuy 标签详情
+   * @desc Gsxcoy 标签详情
    * @access ~public
    * @params id-tagID
    */
@@ -49,7 +49,7 @@ module.exports = (router) => {
 
   /**
    * @route DELETE /api/tag/remove
-   * @desc Gsxcuy 删除对应标签 (如果标签对应下有文章不可删除)
+   * @desc Gsxcoy 删除对应标签 (如果标签对应下有文章不可删除)
    * @access ~public
    * @params id-blogID
    */
@@ -77,7 +77,7 @@ module.exports = (router) => {
 
   /**
    * @route PUT /api/tag/update
-   * @desc Gsxcuy 更新 对应标签
+   * @desc Gsxcoy 更新 对应标签
    * @access ~public
    * @params id-tagID && Tag.Schema
    */
@@ -101,7 +101,7 @@ module.exports = (router) => {
 
   /**
    * @route GET /api/tag/list
-   * @desc Gsxcuy 标签列表 - 查询对应
+   * @desc Gsxcoy 标签列表 - 查询对应
    * @access ~public
    * @params search-tagName
    */
@@ -141,7 +141,7 @@ module.exports = (router) => {
 
   /**
    * @route GET /api/tag/blog-list
-   * @desc Gsxcuy 查询标签对应的博客列表
+   * @desc Gsxcoy 查询标签对应的博客列表
    * @access ~public
    * @params search-tagID
    */
